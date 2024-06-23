@@ -1,3 +1,25 @@
+<img src='./src/assets/logo.png'/>
+
+# Versão Web
+
+O projeto tbm conta com a verção mobile com `React Native` e API que alimenta o projeto em `Node JS`
+
+## Objetivo do projeto
+
+O money é um projeto crido para para gerenciar suas despesas, com ele você pode ter um controle de tudo que você gastou em cada categorias.
+
+##
+
+Projeto criado através de video aulas no YouTube do Canal: Dev point.
+
+<img src='./src/assets/banner-telas.png'/>
+
+# <a href='https://www.figma.com/design/ROcbPksZpnermfPmlierKM/Money?node-id=0-1&t=9CYrhA2lIC14VieO-0'>Layout no Figma</a>
+
+# Como executar:
+
+(para funcionar corrtamente o app precisa da Api)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +27,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+## `npm install`
+
+next
 
 ### `npm start`
 
