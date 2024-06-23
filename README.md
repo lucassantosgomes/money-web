@@ -1,4 +1,4 @@
-<img src='./src/assets/logo.png'/>
+<div  align="center"><img src='./src/assets/logo.png'/></div>
 
 # Versão Web
 
@@ -12,13 +12,13 @@ O money é um projeto crido para para gerenciar suas despesas, com ele você pod
 
 Projeto criado através de video aulas no YouTube do Canal: Dev point.
 
-<img src='./src/assets/banner-telas.png'/>
+<div  align="center" ><img src='./src/assets/banner-telas.png'/></div>
 
 # <a href='https://www.figma.com/design/ROcbPksZpnermfPmlierKM/Money?node-id=0-1&t=9CYrhA2lIC14VieO-0'>Layout no Figma</a>
 
 # Como executar:
 
-(para funcionar corrtamente o app precisa da Api)
+(para funcionar corretamente o app precisa da Api)
 
 # Getting Started with Create React App
 
