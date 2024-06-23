@@ -2,7 +2,7 @@
 
 # Versão Web
 
-O projeto tbm conta com a verção mobile com `React Native` e API que alimenta o projeto em `Node JS`
+O projeto tbm conta com a versão mobile com `React Native` e API que alimenta o projeto em `Node JS`
 
 ## Objetivo do projeto
 
